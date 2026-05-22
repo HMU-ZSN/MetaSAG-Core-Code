@@ -8,7 +8,7 @@ This repository contains the **complete, unencrypted source code** of MetaSAG fo
 ## Relationship with the public repository
 
 - **Public repository (function & installation):** https://github.com/liangcheng-hrbmu/MetaSAG
-  - Provides the installable Python package (`pip install metasag`)
+  - Provides the installable Python package
   - Includes documentation, usage examples, and feature descriptions
   - The source code in the public repository is not fully open to protect core methodology prior to formal publication
 
